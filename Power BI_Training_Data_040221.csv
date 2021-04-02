@@ -1,7 +1,7 @@
 ﻿Line of Therapy,Molecule,Brand,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
-1L,Imatinib,Gleevec,69%,67%,66%,34%,5%,3%,3%,3%,3%,3%,3%
-1L,Imatinib,Generic,,,,33%,62%,66%,66%,67%,67%,66%,66%
-1L,Dasatinib,Sprycel,15%,15%,16%,17%,16%,15%,14%,13%,7%,1%,1%
+First Line,Imatinib,Gleevec,69%,67%,66%,34%,5%,3%,3%,3%,3%,3%,3%
+First Line,Imatinib,Generic,,,,33%,62%,66%,66%,67%,67%,66%,66%
+First Line,Dasatinib,Sprycel,15%,15%,16%,17%,16%,15%,14%,13%,7%,1%,1%
 1L,Dasatinib,Generic,,,,,,,,,7%,14%,15%
 1L,Nilotinib,Tasigna,12%,12%,13%,14%,13%,12%,12%,11%,10%,9%,8%
 1L,Bosutinib,Bosulif,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%
